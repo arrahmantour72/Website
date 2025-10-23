@@ -195,7 +195,7 @@ export const PublicLayout = ({ children }: PublicLayoutProps) => {
                   <Facebook className="text-[#c2a25e] hover:text-white text-lg" />
                 </a>
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/ar_rahman_tour?igsh=MXBuZmFtYnNobjB2ZQ%3D%3D&utm_source=qr"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 flex items-center justify-center bg-[#c2a25e]/10 hover:bg-[#c2a25e] rounded-full transition transform hover:scale-110"
@@ -211,7 +211,7 @@ export const PublicLayout = ({ children }: PublicLayoutProps) => {
                   <MessageCircleCode className="text-[#c2a25e] hover:text-white text-lg" />
                 </a>
                 <a
-                  href="https://youtube.com"
+                  href="https://youtube.com/@arrahmantourarrahmantour?si=HGpgXT-PZQTIkORM"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 flex items-center justify-center bg-[#c2a25e]/10 hover:bg-[#c2a25e] rounded-full transition transform hover:scale-110"

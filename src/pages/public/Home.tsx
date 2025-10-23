@@ -122,8 +122,8 @@ const cardVariants = {
           <div className="absolute inset-0 bg-gradient-to-r from-secondary/80  z-0" />
 
           <div className="relative z-10 container mx-auto px-6">
-            <h1 className="text-4xl md:text-6xl font-bold mb-4 animate-fade-in-up">
-              A Spiritual Journey to Iran & Iraq
+            <h1 className="text-3xl md:text-5xl font-bold mb-4 animate-fade-in-up">
+              A Spiritual Journey to Iran & Iraq & Umrah
             </h1>
             <p className="text-lg md:text-xl max-w-2xl mx-auto mt-4 mb-8 opacity-90 animate-fade-in">
               Experience peace, comfort, and faith with Ar Rahman Tour
@@ -136,6 +136,7 @@ const cardVariants = {
               >
                 View Packages
               </Button>
+              <Link to="/contact">
               <Button
                 size="lg"
                 variant="outline"
@@ -143,6 +144,7 @@ const cardVariants = {
               >
                 Contact Us
               </Button>
+              </Link>
             </div>
           </div>
         </section>

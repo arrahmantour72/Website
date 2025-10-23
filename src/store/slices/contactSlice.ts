@@ -30,14 +30,14 @@ const initialState: ContactState = {
   title: 'Contact Us',
   description: 'We are here to help you plan your next spiritual journey. Reach out to us via phone, email, or by filling out the form below.',
   contactDetails: {
-    phone: '+91 987 654 3210',
-    email: 'info@arrahmantours.com',
+    phone: '+91 98198 37579',
+    email: 'maulanaatahaider@gmail.com',
   },
-  address: `123, Ziyarat House,
-Imam Bargah Road,
-Mumbai, Maharashtra 400003
-India`,
-  mapEmbed: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15552.0252877585!2d72.822296!3d19.076090!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c6306644edc1%3A0x5da4ed8f8d648c67!2sMumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1678888888888!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
+  address: `Habib Bldg, Shop No.50, 
+  Mahfile Khurasan Hazrat Abbas (a.s.) Street
+Pala Gali, Samuel Street, Dongri
+Mumbai, Maharashtra - 400009`,
+  mapEmbed: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.806880073426!2d72.8314732!3d18.9582191!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ce3baffccff1%3A0x948270337ff553c9!2sMEHFIL-E-SHAH-E-KHURASAN!5e0!3m2!1sen!2sin!4v1718123456789!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
   formFields: [
     { id: 'name', label: 'Full Name', type: 'text' },
     { id: 'email', label: 'Email Address', type: 'email' },
